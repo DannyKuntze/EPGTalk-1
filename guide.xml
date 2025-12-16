@@ -1,1 +1,94 @@
-k
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-name="FREE EPG" generator-info-name="epg.pw">
+  <channel id="465251">
+  <tvg-id="nickelodeon.us">
+        <display-name>Nickelodeon</display-name>
+    </channel>
+  <channel id="465245">
+        <display-name>PBS</display-name>
+    </channel>
+  <channel id="tbs.us">
+        <display-name>TBS</display-name>
+    </channel>
+  <channel id="bet.us">
+        <display-name>BET</display-name>
+    </channel>
+  <channel id="freeform.us">
+        <display-name>Freeform</display-name>
+    </channel>
+  <channel id="cnn.us">
+        <display-name>CNN</display-name>
+    </channel>
+  <channel id="mtv.us">
+        <display-name>MTV</display-name>
+    </channel>
+  <channel id="msnbc.us">
+        <display-name>MS NOW</display-name>
+    </channel>
+  <channel id="historychannel.us">
+        <display-name>History Channel</display-name>
+    </channel>
+  <channel id="discoveychannel.us">
+        <display-name>Discovery Channel</display-name>
+    </channel>
+  <channel id="espn.us">
+        <display-name>ESPN</display-name>
+    </channel>
+  <channel id="cw.us">
+        <display-name>CW</display-name>
+    </channel>
+  <channel id="foodnetwork.us">
+        <display-name>Food Network</display-name>
+    </channel>
+  <channel id="lifetime.us">
+        <display-name>Lifetime</display-name>
+    </channel>
+  <channel id="hgtv.us">
+        <display-name>HGTV</display-name>
+    </channel>
+  <channel id="nflnetwork.us">
+        <display-name>NFL Network</display-name>
+    </channel>
+  <channel id="cbswcbs.us">
+        <display-name>CBS</display-name>
+    </channel>
+  <channel id="bravo.us">
+        <display-name>Bravo</display-name>
+    </channel>
+  <channel id="syfy.us">
+        <display-name>SYFY</display-name>
+    </channel>
+  <channel id="amc.us">
+        <display-name>AMC</display-name>
+    </channel>
+  <channel id="usanetwork.us">
+        <display-name>USA Network</display-name>
+    </channel>
+  <channel id="foxnewschannel.us">
+        <display-name>Fox News Channel</display-name>
+    </channel>
+  <channel id="travelchannel.us">
+        <display-name>Travel Channel</display-name>
+    </channel>
+  <channel id="qvc.us">
+        <display-name>QVC</display-name>
+    </channel>
+  <channel id="">
+        <display-name></display-name>
+    </channel>
+  <channel id="">
+        <display-name></display-name>
+    </channel>
+  <channel id="">
+        <display-name></display-name>
+    </channel>
+  <channel id="">
+        <display-name></display-name>
+    </channel>
+  <channel id="">
+        <display-name></display-name>
+    </channel>
+  <channel id="">
+        <display-name></display-name>
+    </channel>
